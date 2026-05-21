@@ -1,0 +1,3 @@
+[submodule "bevy_seedling"]
+	path = bevy_seedling
+	url = https://github.com/corvusprudens/bevy_seedling
